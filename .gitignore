@@ -1,0 +1,38 @@
+.env
+.pyenv
+*.pyc
+.ipynb_checkpoints
+*_build
+*.egg-info*
+
+# IDEs
+.vscode
+.idea/
+
+# folder for various dev stuff
+dev/
+dist/
+.eggs/
+.tox/
+.docs/
+
+# python venv
+bin/
+lib/
+lib64
+pyvenv.cfg
+share/
+etc/
+venv/
+
+# tests
+.coverage
+.pytest_cache
+htmlcov/
+
+# swap files created by text editors
+*.swp
+*.~
+
+# config
+config.yaml
